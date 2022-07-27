@@ -57,5 +57,7 @@ cd ~/.dotfiles && brew bundle
 - Find inspiration and examples in other Dotfiles repositories at [dotfiles.github.io](https://dotfiles.github.io/).
 - And last, but hopefully not least, [**take my course, *Dotfiles from Start to Finish-ish***](https://www.udemy.com/course/dotfiles-from-start-to-finish-ish/?referralCode=445BE0B541C48FE85276 "Learn Dotfiles from Start to Finish-ish on Udemy"
 )!
+- make install script with the following:
+    - oh my fish
 
 ## Thank You!
