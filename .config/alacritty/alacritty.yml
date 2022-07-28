@@ -1,0 +1,51 @@
+live_config_reload: true
+
+window:
+  opacity: 0.85
+  padding:
+    x: 18
+    y: 16
+  dynamic_padding: false
+  decorations: buttonless
+
+font:
+  normal:
+    family: "SFMono Nerd Font"
+    style: Regular
+  size: 12.0
+  use_thin_strokes: true
+
+
+# Colors (Base16 Default Dark)
+colors:
+  # Default colors
+  primary:
+    background: '0x181818'
+    foreground: '0xd8d8d8'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0xd8d8d8'
+    cursor: '0xd8d8d8'
+
+  # Normal colors
+  normal:
+    black:   '0x3F3F3F'
+    red:     '0x705050'
+    green:   '0x60B48A'
+    yellow:  '0xDFAF8F'
+    blue:    '0x9AB8D7'
+    magenta: '0xDC8CC3'
+    cyan:    '0x8CD0D3'
+    white:   '0xFFFFFF'
+
+  # Bright colors
+  bright:
+    black:   '0x709080'
+    red:     '0xDCA3A3'
+    green:   '0x72D5A3'
+    yellow:  '0xF0DFAF'
+    blue:    '0x94BFF3'
+    magenta: '0xEC93D3'
+    cyan:    '0x93E0E3'
+    white:   '0xFFFFFF'
