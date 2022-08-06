@@ -3,5 +3,5 @@ if status is-interactive
 end
 
 function fish_greeting
-    
+    # runs on launch
 end
